@@ -14,27 +14,27 @@
 
 ### Who am I?
 
-AI/ML Engineer and Technical Leader based in Naples 🇮🇹. Currently building [Contrader](https://www.contrader.it/)'s internal AI unit from scratch — technical vision, architecture, team, the whole thing.
+AI/ML Engineer and Technical Leader based in Naples 🇮🇹, with 6+ years spanning research and production deployments across industrial environments.
 
-My actual job is making sure AI doesn't just work in a notebook but survives contact with industrial reality. That means **Computer Vision**, **Generative & Agentic AI**, **Edge MLOps**, and occasionally arguing with a Jetson device at 2am.
+Currently at [Contrader](https://www.contrader.it/), where I built the internal AI unit from the ground up — owning technical vision, architecture decisions, stack selection, and hands-on delivery across Computer Vision, Generative AI, Agentic Systems, and Edge MLOps.
 
-Also a lab instructor at Università degli Studi di Napoli "Parthenope" for 6+ years, where I try to bridge the gap between "what CS textbooks say" and "what actually runs in production."
+Before that: research fellowships on Digital Twin architectures, XAI-VLM pipelines for supply chain risk assessment, edge fleet deployments for ENEL, and HPC-backed environmental modeling for Regione Campania. The common thread is moving systems from prototype to production under real constraints.
+
+Also a lab instructor at Università degli Studi di Napoli "Parthenope" since 2020 — Computer Vision and Operating Systems.
 
 > *"In AI, there is often a disconnect between theoretical models and deployed solutions. I've built my career on bridging that gap."*
-
----
 
 ### What I actually work with
 
 | Domain | Tools & Tech |
 |---|---|
-| 🧠 Deep Learning | PyTorch · TensorFlow · HuggingFace |
-| 👁️ Computer Vision | OpenCV · Ultralytics · VLMs · xAI Architectures |
-| 🤖 Agentic / GenAI | LangChain et al. · Multi-Agent Pipelines · RAG · Fine-tuning |
-| ⚡ Edge AI | NVIDIA Jetson Xavier · TensorRT · ONNX |
-| 🔧 MLOps | Docker · AWS ECR · CI/CD · OTA (Mender) |
-| 🌐 Web | React · Flask · FastAPI |
-| 🐧 Systems | Linux · C++ · Python · Bash |
+| 🧠 Deep Learning | PyTorch · TensorFlow · HuggingFace Transformers · custom training pipelines |
+| 👁️ Computer Vision | Ultralytics · MMDetection · OpenCV · VLMs · xAI / Explainability |
+| 🤖 Agentic / GenAI | LangChain · LangGraph · Multi-Agent Systems · RAG · LLM Fine-tuning |
+| ⚡ Edge AI | NVIDIA Jetson Xavier · TensorRT · ONNX · model quantization & pruning |
+| 🔧 MLOps & Infra | Azure DevOps · Docker · AWS ECR · CI/CD pipelines · OTA (Mender) |
+| 🌐 Web & Backend | React · Flask · FastAPI · HPC / distributed compute |
+| 🐧 Systems | Linux · C++ · Python · Bash · embedded systems |
 
 ---
 

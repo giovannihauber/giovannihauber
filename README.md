@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Giovanni+%F0%9F%91%8B;AI%2FML+Engineer+%26+Technical+Leader;I+ship+AI+systems+that+survive+the+real+world.;Also%3A+massive+nerd+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=*+notices+your+ML+pipeline+*;%E3%82%84%E3%81%A3%E3%81%AF%E3%82%8A...+I'm+Giovanni+%F0%9F%91%8B;AI%2FML+Engineer+%26+Technical+Leader;I+ship+AI+that+survives+the+real+world.;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%2C+welcome+to+my+page+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,8 +29,8 @@ Also a lab instructor at Università degli Studi di Napoli "Parthenope" for 6+ y
 | Domain | Tools & Tech |
 |---|---|
 | 🧠 Deep Learning | PyTorch · TensorFlow · HuggingFace |
-| 👁️ Computer Vision | OpenCV · YOLO · VLMs · xAI Architectures |
-| 🤖 Agentic / GenAI | LangChain · Multi-Agent Pipelines · RAG · Fine-tuning |
+| 👁️ Computer Vision | OpenCV · Ultralytics · VLMs · xAI Architectures |
+| 🤖 Agentic / GenAI | LangChain et al. · Multi-Agent Pipelines · RAG · Fine-tuning |
 | ⚡ Edge AI | NVIDIA Jetson Xavier · TensorRT · ONNX |
 | 🔧 MLOps | Docker · AWS ECR · CI/CD · OTA (Mender) |
 | 🌐 Web | React · Flask · FastAPI |
